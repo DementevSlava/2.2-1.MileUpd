@@ -1,4 +1,4 @@
-package Blok_4_Testability.Z1_Mile_upgrade;
+// package Blok_4_Testability.Z1_Mile_upgrade; //Заменить на свой (Для IDEA)
 
 public class BonusMilesService {
     public static int calculate(int price) {
